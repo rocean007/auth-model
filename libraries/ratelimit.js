@@ -1,5 +1,3 @@
-// Uses Upstash Redis — free 10k requests/day → upstash.com
-// npm install @upstash/redis
 
 const UPSTASH_URL = process.env.UPSTASH_REDIS_REST_URL;
 const UPSTASH_TOKEN = process.env.UPSTASH_REDIS_REST_TOKEN;
